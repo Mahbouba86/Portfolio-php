@@ -14,7 +14,7 @@
 				<a href="/skills" class="group relative flex flex-col overflow-hidden rounded-lg px-4 pb-4 pt-40 mb-4">
 					<img src="https://wallpapercat.com/w/full/6/2/a/2117716-3840x2160-desktop-4k-dark-wallpaper-photo.jpg" alt="" class="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out">
 					<div class="absolute inset-0 bg-gradient-to-b from-gray-900/25 to-gray-900/5"></div>
-					<h3 class="z-10 text-2xl font-medium text-white absolute top-0 left-0 p-4 xs:text-xl md:text-3xl">Frontend, backend et plus.</h3>
+					<h3 class="z-10 text-2xl font-medium text-white absolute top-0 left-0 p-4 xs:text-xl md:text-3xl">Frontend; backend et plus.</h3>
 				</a>
 				<div class="grid gap-4 grid-cols-2 sm:grid-cols-2 lg:grid-cols-2">
 					<a href="/projets" class="group relative flex flex-col overflow-hidden rounded-lg px-4 pb-4 pt-40">
