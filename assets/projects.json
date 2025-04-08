@@ -1,0 +1,62 @@
+[
+  {
+    "title": "E-commerce Store",
+    "description": "Un site de commerce électronique permettant aux utilisateurs d'acheter des produits en ligne.",
+    "stack": ["React", "Node.js", "MongoDB"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Blog Personnel",
+    "description": "Un blog où les utilisateurs peuvent publier des articles et commenter ceux des autres.",
+    "stack": ["WordPress", "PHP", "MySQL"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Application de Gestion de Projets",
+    "description": "Une plateforme pour gérer des tâches et collaborer avec une équipe.",
+    "stack": ["Vue.js", "Firebase", "TailwindCSS"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Portfolio Photographique",
+    "description": "Un site pour afficher et partager des photographies professionnelles.",
+    "stack": ["HTML5", "CSS3", "JavaScript"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Plateforme de Streaming Vidéo",
+    "description": "Un site permettant aux utilisateurs de regarder et partager des vidéos.",
+    "stack": ["Angular", "dotNET Core", "Azure"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Site d'Événements Locaux",
+    "description": "Une application pour découvrir et réserver des événements locaux.",
+    "stack": ["Next.js", "GraphQL", "PostgreSQL"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Application de Recettes de Cuisine",
+    "description": "Un site pour rechercher, partager et sauvegarder des recettes de cuisine.",
+    "stack": ["Django", "Python", "SQLite"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Réseau Social",
+    "description": "Un réseau social permettant aux utilisateurs de se connecter et partager du contenu.",
+    "stack": ["Rails", "Redis", "Bootstrap"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Site de Réservation de Voyages",
+    "description": "Une plateforme pour réserver des billets d'avion, hôtels et locations de voiture.",
+    "stack": ["Laravel", "PHP", "MariaDB"],
+    "link": "https://www.google.com/"
+  },
+  {
+    "title": "Application de Suivi Fitness",
+    "description": "Un site pour suivre les activités physiques et objectifs santé.",
+    "stack": ["Flutter Web", ".NET API", "PostgreSQL"],
+    "link": "https://www.google.com/"
+  }
+]

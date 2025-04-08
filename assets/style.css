@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global */
+body { 
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    @apply { text-slate-800 };
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6, nav { font-family: 'Space Grotesk', sans-serif; font-weight: 600; }
+nav { font-weight: 400; }
+
+/* Forms */
+input, textarea, select {
+    @apply {border-2 border-slate-600 rounded-xl };
+
+}
