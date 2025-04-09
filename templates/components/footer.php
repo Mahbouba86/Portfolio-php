@@ -3,6 +3,3 @@
         <p>© <?php echo date('Y'); ?> Ton prénom</p>
     </div>
 </footer>
-
-</body>
-</html>

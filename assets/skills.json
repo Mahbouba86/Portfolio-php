@@ -1,0 +1,24 @@
+[
+    {
+    "title": "HTML/CSS",
+    "description": "Maîtrise avancée du balisage HTML5 et des styles CSS3, y compris Flexbox, Grid et les animations.",
+    "stack": ["HTML5", "CSS3", "Responsive Design"],
+    "link": "https://blog.openreplay.com/images/30-ways-to-improve-website-performance-with-css/images/hero.png",
+    "bgImage": "https://www.davidayo.com/img/web-developers-for-html-css-javascript.webp"
+    },
+    {
+    "title": "JavaScript & Frontend",
+    "description": "Développement d'interfaces utilisateur interactives avec JavaScript moderne.",
+    "stack": ["JavaScript", "React", "TypeScript", "Vue.js"],
+    "link": "https://e0.pxfuel.com/wallpapers/454/490/desktop-wallpaper-is-it-okay-to-build-sites-that-rely-on-javascript-front-end.jpg",
+    "bgImage": "https://e0.pxfuel.com/wallpapers/454/490/desktop-wallpaper-is-it-okay-to-build-sites-that-rely-on-javascript-front-end.jpg"
+    },
+    {
+    "title": "Backend Development",
+    "description": "Création d'API RESTful sécurisées et performantes avec Node.js et Express.",
+    "stack": ["Node.js", "Express", "MongoDB", "MySQL"],
+    "link": "https://cdn.mos.cms.futurecdn.net/Vq5LSWz9LfvU5xGk5TSAQi.jpg",
+    "bgImage": "https://cdn.mos.cms.futurecdn.net/Vq5LSWz9LfvU5xGk5TSAQi.jpg"
+
+    }
+]
