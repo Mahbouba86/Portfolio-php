@@ -8,8 +8,9 @@
 <body class="bg-gray-100 p-5 font-sans">
 
 <section class="bg-white py-12">
+
 <div class="container mx-auto flex flex-col lg:flex-row items-center justify-center gap-12 px-6">
-    
+
     <div class="relative max-w-xs w-full h-[320px] bg-zinc-700 overflow-hidden group rounded-lg shadow-lg">
 
         <img class="object-cover w-full h-full" src="https://media.istockphoto.com/id/506821736/fr/photo/belle-fille-dans-le-studio.jpg?s=612x612&w=0&k=20&c=KzSTwyscoWpjnb605PR-EoMBMWiy-3cOVGy3gLhro3U=" 
@@ -25,14 +26,17 @@
         </div>
     </div>
 
-    <!-- Texte de présentation -->
-    <div class="prose text-gray-700 max-w-xl text-justify">
-        <h1 class="text-2xl font-bold mb-4 text-center lg:text-left">Bonjour, je suis Mahbouba</h1>
-        <p>Graphiste de formation avec 8 ans d'expérience, je me suis reconvertie avec passion dans le développement web. Aujourd’hui, je conçois des sites modernes, fonctionnels et orientés expérience utilisateur.</p>
-        <p>Spécialisée en PHP, JavaScript et bases de données, je mets ma sensibilité graphique au service du code pour créer des interfaces à la fois esthétiques et performantes.</p>
-        <p>Mon objectif : allier créativité et technicité pour développer des solutions web sur mesure.</p>
+    <div class="flex flex-col items-center lg:items-start">
+        <h1 class="text-4xl mb-4">Qui suis-je</h1>
+        <div class="prose text-gray-700 max-w-xl text-justify">
+            <h2 class="text-2xl font-bold mb-4">Bonjour, je suis Mahbouba</h2>
+            <p>Graphiste de formation avec 8 ans d'expérience, je me suis reconvertie avec passion dans le développement web. Aujourd’hui, je conçois des sites modernes, fonctionnels et orientés expérience utilisateur.</p>
+            <p>Spécialisée en PHP, JavaScript et bases de données, je mets ma sensibilité graphique au service du code pour créer des interfaces à la fois esthétiques et performantes.</p>
+            <p>Mon objectif : allier créativité et technicité pour développer des solutions web sur mesure.</p>
+        </div>
     </div>
-    </div>
+
+</div>
 </section>
 
 </body>
