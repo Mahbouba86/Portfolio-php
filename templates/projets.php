@@ -2,12 +2,12 @@
 
 /**
  * Page des projets à partir du fichier
- * '/assets/projects.json
+ * '/assets/projets.json
  * API des icone : https://devicon.dev/
  */
 
 $data = file_get_contents('./assets/projects.json'); // Récupération du contenu d'un fichier
-$projects = json_decode($data, true); // Décodage du JSON en tableau associatif
+$projets = json_decode($data, true); // Décodage du JSON en tableau associatif
 
 function toSlug(string $stackIcon): string
 {
@@ -22,7 +22,7 @@ function toSlug(string $stackIcon): string
     Mes projets
 </h1>
 
-<?php foreach ($projects as $item): ?>
+<?php foreach ($projets as $item): ?>
     <div class="p-4 flex border-b border-slate-500">
         <div class="w-1/2 border-r border-slate-500">
             <h3 class="text-2xl font-bold mb-5"><?= $item['title'] ?></h3>
