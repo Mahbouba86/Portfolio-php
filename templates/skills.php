@@ -15,7 +15,6 @@ function toSlug(string $stackIcon): string {
     <div class="prose text-gray-500 prose-sm prose-headings:font-normal prose-headings:text-xl w-full">
       <div>
         <h1 class="text-4xl">Mes compétences</h1>
-        <p class="text-balance">Passez la souris sur les images pour découvrir mes compétences !</p>
       </div>
     </div>
 
