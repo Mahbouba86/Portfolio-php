@@ -11,14 +11,14 @@ function toSlug(string $stackIcon): string {
 ?>
 
 <BaseLayout>
-  <section class="grid place-items-center w-full mx-auto 2xl:max-w-7xl justify-center py-36 relative p-12">
+  <section class="grid place-items-center w-full mx-auto 2xl:max-w-7xl justify-center py-24 relative p-12">
     <div class="prose text-gray-500 prose-sm prose-headings:font-normal prose-headings:text-xl w-full">
       <div>
         <h1 class="text-4xl">Mes compétences</h1>
       </div>
     </div>
 
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-16 pt-16">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-8 pt-8">
       <?php foreach ($skills as $index => $item): ?>
         <div class="relative bg-white rounded-2xl shadow-xl overflow-hidden transform transition-all duration-500 ease-in-out hover:scale-105 hover:shadow-2xl">
           <figure class="relative">
@@ -57,3 +57,4 @@ function toSlug(string $stackIcon): string {
     </div>
   </section>
 </BaseLayout>
+
